@@ -64,15 +64,6 @@ pip install -r requirements.txt
 3. 使用python-docx重建文档布局
 4. 智能处理表格、列表和图片等特殊元素
 
-## 贡献指南
-
-欢迎贡献代码！请遵循以下步骤：
-
-1. Fork本仓库
-2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个Pull Request
 
 ## 注意事项
 
